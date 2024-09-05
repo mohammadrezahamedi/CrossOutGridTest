@@ -1,1 +1,1 @@
-A simple CrossOutGrid
+A simple Cross Out Grid Game
